@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0, November 14, 2023
+### Day 1, November 14, 2023
 
 **Today's Progress**:
 Today I created my first github repo and learned about the basics of git and how to use github
@@ -12,7 +12,7 @@ Honestly it was pretty easy, I do have to get used to the workflow but i think i
 none
 
 
-### Day 1, November 15, 2023
+### Day 2, November 15, 2023
 
 **Today's Progress**:
 Today I learned the basics of html and crated a boiler plate file for future coding done using html.
@@ -22,3 +22,15 @@ Even though the actual amount of content I went through is very little, I feel l
 
 **Link to work:** 
 none
+
+### Day 3, November 15, 2023
+
+**Today's Progress**:
+Today I learned how to add different kinds of text elements and a lot of tags for html. I also learned how to attatch links and  images to a website
+
+**Thoughts:**
+For now I think it is just a lot of memorizing, I need a lot more practice to get familiar with all the different html tags and make the most out of them
+
+**Link to work:** 
+![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/425b885f-835e-4d8e-a26a-d3e652d1069e)
+
