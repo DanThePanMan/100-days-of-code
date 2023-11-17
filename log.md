@@ -23,7 +23,7 @@ Even though the actual amount of content I went through is very little, I feel l
 **Link to work:** 
 none
 
-### Day 3, November 15, 2023
+### Day 3, November 16, 2023
 
 **Today's Progress**:
 Today I learned how to add different kinds of text elements and a lot of tags for html. I also learned how to attatch links and  images to a website
