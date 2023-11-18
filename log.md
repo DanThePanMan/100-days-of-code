@@ -34,3 +34,12 @@ For now I think it is just a lot of memorizing, I need a lot more practice to ge
 **Link to work:** 
 ![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/425b885f-835e-4d8e-a26a-d3e652d1069e)
 
+
+
+### Day 4, November 17, 2023
+**Today's Progress**:
+Today marks the day that I've complelted the html section of my course. This final bit of the section taught me how to add images with the <img> and links using <a> along with the different attributes and values that go with them. Overall I think html is pretty easy to learn, and I look forward to applying these knowledge in the future.
+
+**Thoughts:**
+I personally think that css is the exciting part of the course, and I am glad that I can finally start learning it. However, I will need some practice through the first project in the course, which is a purely html based recepie website 
+
