@@ -43,3 +43,13 @@ Today marks the day that I've complelted the html section of my course. This fin
 **Thoughts:**
 I personally think that css is the exciting part of the course, and I am glad that I can finally start learning it. However, I will need some practice through the first project in the course, which is a purely html based recepie website 
 
+
+### Day 5, November 18, 2023
+**Today's Progress**:
+Completed my firsrt assignment on the Odin project. Even though the assignment itself is pretty easy, it helped me get practice using the different HTML tags and the git workflow.
+
+**Thoughts:**
+ Looking back I feel like I could have done more but I had a busy day working for my entrepreneurship team.
+**Link to work**
+https://github.com/DanThePanMan/odin-recipies
+
