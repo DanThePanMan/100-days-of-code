@@ -53,3 +53,8 @@ Completed my firsrt assignment on the Odin project. Even though the assignment i
 **Link to work**
 https://github.com/DanThePanMan/odin-recipies
 
+### Day 6, November 19, 2023
+**Today's Progress**:
+learned about some basic css
+**Thoughts:**
+Tried to squeeze in some learning but had a busy weekend from an event. Now that the event is finished I think I can spend a lot more time learning about front end development.
