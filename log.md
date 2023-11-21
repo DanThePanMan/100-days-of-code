@@ -62,5 +62,9 @@ Tried to squeeze in some learning but had a busy weekend from an event. Now that
 ### Day 7, November 20, 2023
 **Today's Progress**:
 Familiarized myself with the cascading nature of CSS, and did a lot of practice with it so I can be more familiar with using it along with html
+
 **Thoughts:**
 The cascading nature and the specificity of different properties was really confusing at first, but I am glad that I kept going and did not peek at the solutions. Today marks the day that I am 50% complete with my Foundations course in the odin project. Can't wait to keep progressing and build bigger projects.
+
+**Link to work**
+![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/e2305579-6a12-43e1-ac84-2eb6500f7959)
