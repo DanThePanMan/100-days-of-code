@@ -68,3 +68,10 @@ The cascading nature and the specificity of different properties was really conf
 
 **Link to work**
 ![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/e2305579-6a12-43e1-ac84-2eb6500f7959)
+
+### Day 8, November 20, 2023
+**Today's Progress**:
+Learned about the box model of css and learned how to sue DevTools
+
+**Thoughts:**
+In my opinion it does seem pretty straight forwared, but it might get harder once I actually start building prjects
