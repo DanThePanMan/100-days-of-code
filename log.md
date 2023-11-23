@@ -75,3 +75,10 @@ Learned about the box model of css and learned how to sue DevTools
 
 **Thoughts:**
 In my opinion it does seem pretty straight forwared, but it might get harder once I actually start building prjects
+
+### Day 9, November 21, 2023
+**Today's Progress**:
+Learned about how block and inline model works in CSS, and finished exercises 1 and 2 for that respective section in the odin project. Also tried to add styling to my odin recipes website
+
+**Thoughts:**
+Everything worked great until my class selector did not override my universal selector. going to leave that problem to future me
