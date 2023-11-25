@@ -69,16 +69,24 @@ The cascading nature and the specificity of different properties was really conf
 **Link to work**
 ![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/e2305579-6a12-43e1-ac84-2eb6500f7959)
 
-### Day 8, November 20, 2023
+### Day 8, November 21, 2023
 **Today's Progress**:
 Learned about the box model of css and learned how to sue DevTools
 
 **Thoughts:**
 In my opinion it does seem pretty straight forwared, but it might get harder once I actually start building prjects
 
-### Day 9, November 21, 2023
+### Day 9, November 22, 2023
 **Today's Progress**:
 Learned about how block and inline model works in CSS, and finished exercises 1 and 2 for that respective section in the odin project. Also tried to add styling to my odin recipes website
 
 **Thoughts:**
 Everything worked great until my class selector did not override my universal selector. going to leave that problem to future me
+
+
+### Day 10 and 11, November 23/24, 2023
+**Today's Progress**:
+both days were spent on learning flexbox, forgot to log the previous day so I've decided to log both down on the same entry
+
+**Thoughts:**
+I think that this stuff is pretty easy, but I know that in its going to be way harder when I put them in practice
