@@ -90,3 +90,9 @@ both days were spent on learning flexbox, forgot to log the previous day so I've
 
 **Thoughts:**
 I think that this stuff is pretty easy, but I know that in its going to be way harder when I put them in practice
+
+### Day 12, November 25, 2023
+**Today's Progress**:
+Practiced Flexbox for the entire day today, excited to see what I can build from scratch
+
+
