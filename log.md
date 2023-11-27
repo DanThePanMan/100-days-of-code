@@ -95,4 +95,11 @@ I think that this stuff is pretty easy, but I know that in its going to be way h
 **Today's Progress**:
 Practiced Flexbox for the entire day today, excited to see what I can build from scratch
 
+### Day 13, November 26, 2023
+**Today's Progress**:
+Finished all the exercizes on flexbox in the odin project, now I can move on and create a landing page 
+
+**Thoughts**
+This is defnitely the hardest part of the journey so far, a lot of the css started getting frustrating and I had to find different ways to organize my css file class names so they do not conflict. However this did train me to become a lot more proficient with using flexbox.
+
 
