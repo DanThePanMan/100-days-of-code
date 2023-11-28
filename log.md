@@ -102,4 +102,9 @@ Finished all the exercizes on flexbox in the odin project, now I can move on and
 **Thoughts**
 This is defnitely the hardest part of the journey so far, a lot of the css started getting frustrating and I had to find different ways to organize my css file class names so they do not conflict. However this did train me to become a lot more proficient with using flexbox.
 
+### Day 14, November 26, 2023
+**Today's Progress**:
+Started working on my first html+css based webpage from the ground up. This was for the "Project:landing page" section of the Odin project. However i am adding my own twist to it.
 
+**Thoughts**
+After the exercizes, this part is actually quite easy. I still have a quite bit to do but I think this is a multi-day process and I am for sure getting there.
