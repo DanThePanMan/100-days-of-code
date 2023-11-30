@@ -126,3 +126,12 @@ Learned about numbers in javascript
 
 **Thoughts**
 Honestly I think that the numbers in javascript are pretty wacky, its weird because it functions really differently from python but python is also dynamically typed.
+
+### Day 17, November 30, 2023
+**Today's Progress**:
+Learned about conditional statements and string oeprations in JavaScript
+
+did some exercizes to get practice
+
+**Thoughts**
+I have some background in python programming, so this section is a breeze. However it does feel tedious to relearn syntax.
