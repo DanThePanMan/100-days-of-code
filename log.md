@@ -119,3 +119,10 @@ Honestly I think that it is very fun. Finished it way faster than I thought and 
 
 **link to work**
 https://github.com/DanThePanMan/playlists-landing-page
+
+### Day 16, November 29, 2023
+**Today's Progress**:
+Learned about numbers in javascript
+
+**Thoughts**
+Honestly I think that the numbers in javascript are pretty wacky, its weird because it functions really differently from python but python is also dynamically typed.
