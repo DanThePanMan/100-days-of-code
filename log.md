@@ -135,3 +135,11 @@ did some exercizes to get practice
 
 **Thoughts**
 I have some background in python programming, so this section is a breeze. However it does feel tedious to relearn syntax.
+
+
+### Day 17, November 30, 2023
+**Today's Progress**:
+Finished learning the fundimentals of javascript. Learned how to use devtools to debug javascript
+
+**Thoughts**
+Similar to yesterday, The section was pretty simple but the devtools section was fun
