@@ -143,3 +143,10 @@ Finished learning the fundimentals of javascript. Learned how to use devtools to
 
 **Thoughts**
 Similar to yesterday, The section was pretty simple but the devtools section was fun
+
+### Day 19, December 2, 2023
+**Today's Progress**:
+Created a simple rock paper scissors project in Javascript. It really helped me familiarize myself with the syntax. Also learned how to write clean code
+
+**Thoughts**
+Honestly the program itself is not hard to code, but the syntax took me a while
