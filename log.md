@@ -150,3 +150,10 @@ Created a simple rock paper scissors project in Javascript. It really helped me 
 
 **Thoughts**
 Honestly the program itself is not hard to code, but the syntax took me a while
+
+### Day 20, December 4, 2023
+**Today's Progress**:
+Learned about loops and arrays in Javascript
+
+**Thoughts**
+Was a bit sick so I could not complete all the exercises but overall I think I learned a lot today
