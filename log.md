@@ -160,4 +160,12 @@ Was a bit sick so I could not complete all the exercises but overall I think I l
 
 ### Day 21, December 5, 2023
 **Today's Progress**:
-simply completed the rest of the exercises in that section of the course. Going to do more once I am not sick anymore
+simply completed the rest of the exercises in that section of the course. Going to do more once I am not sick anymore\
+
+
+### Day 22, December 8, 2023
+**Today's Progress**:
+Learned about DOM manipulation
+
+**Thoughts**
+Honestly I think that this is super cool, as now I can finally make my websites functioal instead of just looking good. Learning this unlocks so many different things to do for my websites and I look forward to actually using it.
