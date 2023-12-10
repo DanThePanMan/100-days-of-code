@@ -169,3 +169,11 @@ Learned about DOM manipulation
 
 **Thoughts**
 Honestly I think that this is super cool, as now I can finally make my websites functioal instead of just looking good. Learning this unlocks so many different things to do for my websites and I look forward to actually using it.
+
+
+### Day 23, December 9, 2023
+**Today's Progress**:
+Practiced DOM manipulation and eventlisteners
+
+**Link to work**
+https://github.com/DanThePanMan/RockPaperScissors
