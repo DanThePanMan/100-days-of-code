@@ -177,3 +177,10 @@ Practiced DOM manipulation and eventlisteners
 
 **Link to work**
 https://github.com/DanThePanMan/RockPaperScissors
+
+### Day 24, December 12, 2023
+**Today's Progress**:
+Started editing the etch a sketch website, added squres with variable resolution
+
+**Thoughts**
+This part took way too long to debug because of the losely typed nature of javascript. However This did teaech me how to correctly create elements in javascript
