@@ -184,3 +184,13 @@ Started editing the etch a sketch website, added squres with variable resolution
 
 **Thoughts**
 This part took way too long to debug because of the losely typed nature of javascript. However This did teaech me how to correctly create elements in javascript
+
+### Day 25, December 18, 2023
+**Today's Progress**:
+Changed a lot of the etch a sketch software. Made the buttons functional and made the main feature usable (you can now draw)
+
+**Thoughts**
+I think that I am defnitely more familiar with Javascript now, and compared to before, I used a more functional appraoch rather than just straight up code, which made the code cleaner and different things reusable
+
+**Link to work**
+https://github.com/DanThePanMan/OdinEtchASketch
