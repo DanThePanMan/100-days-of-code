@@ -194,3 +194,10 @@ I think that I am defnitely more familiar with Javascript now, and compared to b
 
 **Link to work**
 https://github.com/DanThePanMan/OdinEtchASketch
+
+### Day 26, December 19, 2023
+**Today's Progress**:
+Learned how to make objects in Javascript. 
+
+**Thoughts**
+Could not learned a lot today because I was travelling today, but I tried my best to learn more
