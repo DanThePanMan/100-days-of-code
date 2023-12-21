@@ -201,3 +201,10 @@ Learned how to make objects in Javascript.
 
 **Thoughts**
 Could not learned a lot today because I was travelling today, but I tried my best to learn more
+
+### Day 27, December 20, 2023
+**Today's Progress**:
+Learned some advanced list methods for javascript
+
+**Thoughts**
+Honestly this was very interesting, and i am happy that I have a lot  more tools for building website now
