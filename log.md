@@ -208,3 +208,10 @@ Learned some advanced list methods for javascript
 
 **Thoughts**
 Honestly this was very interesting, and i am happy that I have a lot  more tools for building website now
+
+### Day 28, December 21, 2023
+**Today's Progress**:
+Started learning React, Today I learned the structure of a react project and how to create components that are configurable using props
+
+**Thoughts**
+This feels very similar to making functions in Javascript to create change different things on the webpage, and I think that it is actually a lot of fun
