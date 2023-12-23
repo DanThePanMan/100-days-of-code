@@ -213,5 +213,13 @@ Honestly this was very interesting, and i am happy that I have a lot  more tools
 **Today's Progress**:
 Started learning React, Today I learned the structure of a react project and how to create components that are configurable using props
 
-**Thoughts**
+**Thoughts**:
 This feels very similar to making functions in Javascript to create change different things on the webpage, and I think that it is actually a lot of fun
+
+
+### Day 29, December 22, 2023
+**Today's Progress**:
+Learned about how to handle events which show different components in react. 
+
+**Thoughts**:
+I was going to learn how to use the routing module in react, but the tutorial's routing section is outdated so I had to look for another tutorial on that, However everything else was fine
