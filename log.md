@@ -231,3 +231,15 @@ Learned about routing and linking elements, as well as using params. I also lear
 
 **Thoughts**:
 Honestly this stuff is not that hard, the new to the v6 version of the router did made it harder to follow the tutorial but I ended up following anoter one. There are only a little more of react that I have to learn before I can start building my own projects and I am very excited
+
+
+### Day 31, December 24, 2023
+**Today's Progress**:
+1. Completed my react course and learned about how to add a form in react js and storing its data to an object
+
+2. Learned about how to use firebase to store and fetch that data
+
+3. Learned how to use the useHistory hook to trigger links
+
+**Thoughts**:
+I feel like I might forget a lot of this stuff, but building a project with it will consolidate the knowledge and get me more familiar with using react.
