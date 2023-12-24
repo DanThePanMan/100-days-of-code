@@ -223,3 +223,11 @@ Learned about how to handle events which show different components in react.
 
 **Thoughts**:
 I was going to learn how to use the routing module in react, but the tutorial's routing section is outdated so I had to look for another tutorial on that, However everything else was fine
+
+
+### Day 30, December 23, 2023
+**Today's Progress**:
+Learned about routing and linking elements, as well as using params. I also learned how to output an array as an array of jsx elements.
+
+**Thoughts**:
+Honestly this stuff is not that hard, the new to the v6 version of the router did made it harder to follow the tutorial but I ended up following anoter one. There are only a little more of react that I have to learn before I can start building my own projects and I am very excited
