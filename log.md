@@ -243,3 +243,13 @@ Honestly this stuff is not that hard, the new to the v6 version of the router di
 
 **Thoughts**:
 I feel like I might forget a lot of this stuff, but building a project with it will consolidate the knowledge and get me more familiar with using react.
+
+### Day 32, December 25, 2023
+**Today's Progress**:
+Created a funcitonal nav bar for my side project
+
+**Thoughts**:
+took way longer than expected, but it actually works really well
+
+**Link to work**:
+https://danthepanman.github.io/react-habit-tracker/
