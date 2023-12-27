@@ -253,3 +253,10 @@ took way longer than expected, but it actually works really well
 
 **Link to work**:
 https://danthepanman.github.io/react-habit-tracker/
+
+### Day 33, December 26, 2023
+**Today's Progress**:
+Connected the application to firebase and also edited styling for the webpage
+
+**Thoughts**:
+This part had a lot of errors but it ended up finally working. Defnitely a lot of problems that I had to solve and I am glad that I was able to pull through.
