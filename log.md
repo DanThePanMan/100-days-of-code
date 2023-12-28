@@ -260,3 +260,9 @@ Connected the application to firebase and also edited styling for the webpage
 
 **Thoughts**:
 This part had a lot of errors but it ended up finally working. Defnitely a lot of problems that I had to solve and I am glad that I was able to pull through.
+
+### Day 34, December 27, 2023
+**Today's Progress**:
+Cleaned up the code and added styling for my react habit tracking application
+
+
