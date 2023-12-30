@@ -265,4 +265,11 @@ This part had a lot of errors but it ended up finally working. Defnitely a lot o
 **Today's Progress**:
 Cleaned up the code and added styling for my react habit tracking application
 
+### Day 35 and 36, December 28 and 29, 2023
+**Today's Progress**:
+Completed the new habits page and the pop up window for when you submit the habit. the next thing to work on is the weeky at a glance and the main page using the data fetched from firebase
+
+**Thoughts**:
+Now that the entire site is restructures, it is a lot easier to work on
+
 
