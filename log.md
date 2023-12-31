@@ -272,4 +272,11 @@ Completed the new habits page and the pop up window for when you submit the habi
 **Thoughts**:
 Now that the entire site is restructures, it is a lot easier to work on
 
+### Day 7, December 30, 2023
+**Today's Progress**:
+Completed the week-view page and added transitions between pages
+
+
+
+
 
