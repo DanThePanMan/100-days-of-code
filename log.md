@@ -281,5 +281,8 @@ Completed the week-view page and added transitions between pages
 **Today's Progress**:
 Website is completed...
 
+### Day 39, January 5, 2024
+**Today's Progress**:
+Started the full stack javascript nodejs course on the odin project
 
 
