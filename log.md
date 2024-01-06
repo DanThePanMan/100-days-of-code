@@ -285,4 +285,8 @@ Website is completed...
 **Today's Progress**:
 Started the full stack javascript nodejs course on the odin project
 
+### Day 40, January 6, 2024
+**Today's Progress**
+Learned how to use emmet for faster HTML writing and spent some time practicing. Will be ramping up the amount of learning per day once winter break is over
+
 
