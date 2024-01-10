@@ -289,4 +289,11 @@ Started the full stack javascript nodejs course on the odin project
 **Today's Progress**
 Learned how to use emmet for faster HTML writing and spent some time practicing. Will be ramping up the amount of learning per day once winter break is over
 
+### Day 41, January 9, 2024
+**Today's Progress**
+1. Learned about how SVGs work, and how to manipulate them to create effects and animations
+
+2. Learned about HTML tables and when they should be used
+
+
 
