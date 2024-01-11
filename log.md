@@ -295,5 +295,7 @@ Learned how to use emmet for faster HTML writing and spent some time practicing.
 
 2. Learned about HTML tables and when they should be used
 
-
+### Day 42, January 9, 2024
+**Today's Progress**
+Added a delete task button in my react habit tracker, so now there is a way to remove tasks from the home page.
 
