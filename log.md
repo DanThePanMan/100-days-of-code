@@ -295,7 +295,17 @@ Learned how to use emmet for faster HTML writing and spent some time practicing.
 
 2. Learned about HTML tables and when they should be used
 
-### Day 42, January 9, 2024
+### Day 42, January 10, 2024
 **Today's Progress**
 Added a delete task button in my react habit tracker, so now there is a way to remove tasks from the home page.
 
+### Day 43 January 11, 2024
+**Today's Progress**
+Learned about default styles, different css units, and more useful css text styles
+
+I will also be learning c++ alongside my usual studies, since I want to broaden my scope and experiment different fields of programming
+
+**Thoughts**:
+I look forward to learning c because I think it will be a great gateway to many things that I have never though about learning before. it also suits well with my major
+
+The stuff i learned today in css was pretty easy, but it made me realize that I have made a lot of mistakes in my react habit tracker website.
