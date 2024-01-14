@@ -309,3 +309,8 @@ I will also be learning c++ alongside my usual studies, since I want to broaden 
 I look forward to learning c because I think it will be a great gateway to many things that I have never though about learning before. it also suits well with my major
 
 The stuff i learned today in css was pretty easy, but it made me realize that I have made a lot of mistakes in my react habit tracker website.
+
+### Day 44 January 13, 2024
+Today I learned more different css properties that I an use
+
+For c++, I spent time more time learning about the basics. However I will start speeding up through these since I have programming knowledge from other languages.
