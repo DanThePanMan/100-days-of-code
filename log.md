@@ -314,3 +314,7 @@ The stuff i learned today in css was pretty easy, but it made me realize that I 
 Today I learned more different css properties that I an use
 
 For c++, I spent time more time learning about the basics. However I will start speeding up through these since I have programming knowledge from other languages.
+
+
+### Day 45 January 16, 2024
+Learned some advanced css selectors such as sibling selectors and pseudo classes. I look forward to using those tools eventually.
