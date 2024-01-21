@@ -322,3 +322,6 @@ Learned some advanced css selectors such as sibling selectors and pseudo classes
 ### Day 46 January 17, 2024
 Spent most of my time finishing the first chapter of the c++ lesson. Even though I do know the fundamentals I think going over them again is great for building a solid foundation.
 
+### Day 47-49 January 17, 2024
+went through lots of c++ book
+
