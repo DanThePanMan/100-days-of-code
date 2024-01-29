@@ -325,3 +325,5 @@ Spent most of my time finishing the first chapter of the c++ lesson. Even though
 ### Day 47-49 January 17, 2024
 went through lots of c++ book
 
+### Day 50 January 28, 2024
+Learned about custom css properties, browser compatibility, and making forms in html. It does feel weird to return to html to dive deeper into it but i think its a lot of fun
