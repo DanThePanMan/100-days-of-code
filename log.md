@@ -327,3 +327,8 @@ went through lots of c++ book
 
 ### Day 50 January 28, 2024
 Learned about custom css properties, browser compatibility, and making forms in html. It does feel weird to return to html to dive deeper into it but i think its a lot of fun
+
+### Day 51 January 30, 2024 
+Learned about styling forms in CSS, it is pretty overwhelming because of how much content that one single lesson covers
+
+However the C++ lesson was not bad at all. I learned about how to use multiple files in a singular program
