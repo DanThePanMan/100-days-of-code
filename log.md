@@ -332,3 +332,14 @@ Learned about custom css properties, browser compatibility, and making forms in 
 Learned about styling forms in CSS, it is pretty overwhelming because of how much content that one single lesson covers
 
 However the C++ lesson was not bad at all. I learned about how to use multiple files in a singular program
+
+### Day 52 February 12, 2024
+
+Took a long break from 100days of code but now that exams are over I can focus on this more. I completed the signup form fo the odin project.
+
+**Thoughts**
+Validating the matching password was pretty difficult but the rest is fine. I do think it is a great challenge though
+
+**Link to work**
+![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/7cfcd1be-f362-43fa-8169-7de82187421f)
+
