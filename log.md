@@ -343,3 +343,9 @@ Validating the matching password was pretty difficult but the rest is fine. I do
 **Link to work**
 ![image](https://github.com/DanThePanMan/100-days-of-code/assets/131634136/7cfcd1be-f362-43fa-8169-7de82187421f)
 
+### Day 53 February 13, 2024
+
+Learned about css grid and preprocessors in c++
+
+**Thoughts**
+the preprocessor stuff is pretty hard to understnad, but the css is quite straight forward. I used to be a grid hater but now i think it is very convenient.
