@@ -349,3 +349,11 @@ Learned about css grid and preprocessors in c++
 
 **Thoughts**
 the preprocessor stuff is pretty hard to understnad, but the css is quite straight forward. I used to be a grid hater but now i think it is very convenient.
+
+
+### Day 54 February 14, 2024
+
+Learned more about css grid and header files in c++
+
+**Thoughts**
+all around pretty easy, however I would like to speed up my learning a bit and start the next project using css grid.
