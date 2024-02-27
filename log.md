@@ -357,3 +357,8 @@ Learned more about css grid and header files in c++
 
 **Thoughts**
 all around pretty easy, however I would like to speed up my learning a bit and start the next project using css grid.
+
+
+### Day 55 February 26, 2024 ###
+
+I learned about more grid properties and did some exercises. However I did not finish the final question since it is a bit difficult for me. However I will try to figure it out tomorrow when I have more time
