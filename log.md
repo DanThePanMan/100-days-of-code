@@ -362,3 +362,8 @@ all around pretty easy, however I would like to speed up my learning a bit and s
 ### Day 55 February 26, 2024 ###
 
 I learned about more grid properties and did some exercises. However I did not finish the final question since it is a bit difficult for me. However I will try to figure it out tomorrow when I have more time
+
+
+### Day 56 February 27, 2024 ###
+
+I finally finished that exercise that was troubling me. It was pretty difficult but now it is responsive. This really helped me learn how to use css grid to format web pages properly
