@@ -366,4 +366,9 @@ I learned about more grid properties and did some exercises. However I did not f
 
 ### Day 56 February 27, 2024 ###
 
-I finally finished that exercise that was troubling me. It was pretty difficult but now it is responsive. This really helped me learn how to use css grid to format web pages properly
+I finally finished that exercise that was troubling me. It was pretty difficult but now it is responsive. This really helped me learn how to use css grid to format web pages properly\
+
+
+### Day 57 February 28, 2024 ###
+
+Today I learned about when to use css flex and grid, and the pros and cons of each. I also learned that you can combine both of them for optimal results.
