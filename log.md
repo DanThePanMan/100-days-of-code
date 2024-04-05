@@ -372,3 +372,6 @@ I finally finished that exercise that was troubling me. It was pretty difficult 
 ### Day 57 February 28, 2024 ###
 
 Today I learned about when to use css flex and grid, and the pros and cons of each. I also learned that you can combine both of them for optimal results.
+
+### Day 58 April 4th, 2024 ###
+Relearned how to use css grid, and am finally starting to build the odin dashboard project.
