@@ -375,3 +375,8 @@ Today I learned about when to use css flex and grid, and the pros and cons of ea
 
 ### Day 58 April 4th, 2024 ###
 Relearned how to use css grid, and am finally starting to build the odin dashboard project.
+
+### Day 58 April 5th, 2024 ###
+Relearned the second half of css grid, which is about some more advanced topics like minmax(), auto-fit, auto-fill, clamp, etc.
+
+Also spent time adjusting the layout for the dashboard project
